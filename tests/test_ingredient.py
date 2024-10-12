@@ -1,5 +1,5 @@
 from praktikum.ingredient import Ingredient
-from praktikum.ingredient_types import  INGREDIENT_TYPE_FILLING
+from praktikum.ingredient_types import INGREDIENT_TYPE_FILLING
 
 DATA_INGREDIENT = [INGREDIENT_TYPE_FILLING, 'cheese', 100]
 
